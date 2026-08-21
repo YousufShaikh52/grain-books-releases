@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build": 2,
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.1/GrainBooksSetup-1.0.1.exe",
-  "notes": "Purchase section rebuilt, gate passes for both directions, ledger redesign, phone navigation.",
-  "sha256": "3855875c34cbbe805dacc892206d2211cd1eb5f1d0f52aaae646397e74b88d2d"
+  "version": "1.0.2",
+  "build": 3,
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.2/GrainBooksSetup-1.0.2.exe",
+  "notes": "Bundles the Visual C++ runtime so the app starts on a PC without Visual Studio installed.",
+  "sha256": "ceefaa82910ba5d7c7513fac41ea46a0a6d5d328089f602a3bb075a222a92528"
 }
