@@ -1,7 +1,7 @@
-{
-  "version": "1.0.2",
-  "build": 3,
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.2/GrainBooksSetup-1.0.2.exe",
-  "notes": "Bundles the Visual C++ runtime so the app starts on a PC without Visual Studio installed.",
-  "sha256": "ceefaa82910ba5d7c7513fac41ea46a0a6d5d328089f602a3bb075a222a92528"
+﻿{
+    "version":  "1.0.3",
+    "build":  4,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.3/GrainBooksSetup-1.0.3.exe",
+    "notes":  "Sign-in errors now say what actually failed instead of blaming your internet.",
+    "sha256":  "f2978fa6101e98dd255997b264d5926a5ca645ea8dfe9bfb08f8af10c4c79e05"
 }
