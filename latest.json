@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.4",
-    "build":  5,
-    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.4/GrainBooksSetup-1.0.4.exe",
-    "notes":  "Connection errors now name the actual fault - certificate, DNS, firewall or a slow server - and include the raw error.",
-    "sha256":  "51454936bb552bf7c9deb16ffade2a44bcedfaca6d8acd44c75a54c1e9a9df9a"
+    "version":  "1.0.5",
+    "build":  6,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.5/GrainBooksSetup-1.0.5.exe",
+    "notes":  "The app now carries its own certificate roots, so it works on PCs whose Windows is too old to trust the server\u0027s certificate.",
+    "sha256":  "098e23180432cb619b9fd0af4b50e8773fdf09652a01b229fff622ad945546ad"
 }
