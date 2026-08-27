@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.6",
-    "build":  7,
-    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.6/GrainBooksSetup-1.0.6.exe",
-    "notes":  "Permissions now match the web app: screens a user has no right to are hidden, and the app opens on a screen they can actually use.",
-    "sha256":  "1777973e54f09ce741c470dd0ace4c2f4c571b6d7f17a851f2309f8597b3214f"
+    "version":  "1.0.8",
+    "build":  9,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.8/GrainBooksSetup-1.0.8.exe",
+    "notes":  "Open customers and suppliers from the app, correct purchase bills, vouchers and gate passes, and chase what is owed on the new bills tracking screen. Adds profit and loss and total worth. Handing over cash no longer waits on a device that is simply idle.",
+    "sha256":  "59f38f22c6aa24c74189b0b2279a9710250eebb98160e705d23c99540b71b7a5"
 }
