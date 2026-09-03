@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.12",
-    "build":  14,
-    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.12/GrainBooksSetup-1.0.12.exe",
-    "notes":  "Nine critical fixes from the desktop audit: sale/POS tax showed a tenth of what posted; a journal could save unbalanced; company-switch data leak; cashbook cash-bill totals; weighed lines with no rate vanished on save; gate passes overwrote each other; unsynced bills could not be corrected. Plus a keyboard account picker, Urdu rendering, and faster grids.",
-    "sha256":  "7b88855da251f795fc05f46e769252a9a0687c5ab40a36c51fc1570737331d20"
+    "version":  "1.0.13",
+    "build":  17,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.13/GrainBooksSetup-1.0.13.exe",
+    "notes":  "Company feature switches now work the way the web app does. The 80mm gate pass receipt follows Bill Verification everywhere - the sidebar entry, the button on a saved bill, the share-as-PDF entry and the slip printed after saving - instead of appearing whatever the switch said. Saving a purchase bill now offers the slip and then the bill, with one chance to skip both, which only sales did before. Every one of the sixteen switches is now sent to the device and obeyed: menu entries hide with their feature, bill types and rate units follow what the company priced in, and new products start in the company\u0027s own unit. A switch changed in the web app reaches the app within two minutes instead of up to half an hour. Also: Google sign-in, and a saved bill can no longer throw while opening its print preview.",
+    "sha256":  "77032ef9f806e2188a2c917fd914400a7a17fc23944511ff31d937bbfa580508"
 }
