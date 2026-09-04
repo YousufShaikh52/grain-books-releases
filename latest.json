@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.13",
-    "build":  17,
-    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.13/GrainBooksSetup-1.0.13.exe",
-    "notes":  "Company feature switches now work the way the web app does. The 80mm gate pass receipt follows Bill Verification everywhere - the sidebar entry, the button on a saved bill, the share-as-PDF entry and the slip printed after saving - instead of appearing whatever the switch said. Saving a purchase bill now offers the slip and then the bill, with one chance to skip both, which only sales did before. Every one of the sixteen switches is now sent to the device and obeyed: menu entries hide with their feature, bill types and rate units follow what the company priced in, and new products start in the company\u0027s own unit. A switch changed in the web app reaches the app within two minutes instead of up to half an hour. Also: Google sign-in, and a saved bill can no longer throw while opening its print preview.",
-    "sha256":  "77032ef9f806e2188a2c917fd914400a7a17fc23944511ff31d937bbfa580508"
+    "version":  "1.0.14",
+    "build":  18,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.14/GrainBooksSetup-1.0.14.exe",
+    "notes":  "A voucher line can now be tagged with a brand, so a payment or a journal entry that settles no bill still counts towards that brand\u0027s ledger. Only brands set to track their credit separately are offered, and the column stays out of the way entirely for companies that do not use brands. When a line is linked to a bill, the bill decides the brand and the field shows what it decided.\n\nMore important for everyone: correcting a voucher on the desktop no longer clears the bill it was linked to. Editing a voucher rewrites all of its lines, and this app has never had a field for the linked bill or for the sauda an advance was paid against, so both were quietly lost every time an amount was corrected here - which left a bill that had been paid looking unpaid. Anything the app does not show is now kept as it was.",
+    "sha256":  "2af924d51666176c54a054727ff2a90a8d468add91dfc2665ef85432c77ae495"
 }
