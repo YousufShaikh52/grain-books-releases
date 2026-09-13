@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.16",
-    "build":  20,
-    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.16/GrainBooksSetup-1.0.16.exe",
-    "notes":  "Accounts now carry an opening date you can set and change, instead of the app dating them by the moment they were created. Dates follow the Pakistani calendar day throughout, so an account created on the web no longer reads a day earlier here. Also: bill lines can carry whole units and loose pieces, stock screens and printed bills show both, and the piece rate prints so a packed bill can be checked.",
-    "sha256":  "fdcbd8b54b1fa2560dc2424dca9b11679b430de2018d2dfceae6c7815550fedb"
+    "version":  "1.0.17",
+    "build":  21,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.17/GrainBooksSetup-1.0.17.exe",
+    "notes":  "A new look and a keyboard-first way of working. The app draws its own title bar, uses a bundled typeface and a dark green sidebar, and puts labels above fields. On every entry screen Enter moves to the next field or cell and adds a line off the end, Shift+Enter goes back, arrows move between lines, Ctrl+Enter adds a line, Ctrl+D deletes one and Esc backs out. Parties, products, accounts and brands are typed into the cell and chosen from a list that narrows as you type; Alt+N creates a new one without leaving the bill, and Ctrl+Space opens the full picker. Every number cell does arithmetic, such as 375*2067. Dates are typed as dd-mm-yyyy, with F2 to reach them. F5, F6 and F7 open a payment, receipt or journal voucher and F8 and F9 a sale or purchase bill from any list. Press ? for the full list of keys.",
+    "sha256":  "f6848e0bd697e7d840bb5f8dbacd6a4613ce6e59098d7aa9b015600e06806f69"
 }
