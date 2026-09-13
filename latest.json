@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.15",
-    "build":  19,
-    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.15/GrainBooksSetup-1.0.15.exe",
-    "notes":  "Brands. An account ledger can now be read one brand at a time, or scoped to what no tracked brand claims, with a banner saying how many entries each view leaves out - the same division the web app makes, worked out on the device so it still answers with no signal. Stock valuation can be filtered by brand. Also: a company with weight products switched off no longer opens new bills as weight bills priced in maunds, and no longer shows Packing or Net kg columns on a quantity bill or a counter sale.",
-    "sha256":  "2ea485df9589e640bea349738cccc97ab8982ad97572c7b6bfd05d39c591fa1c"
+    "version":  "1.0.16",
+    "build":  20,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.16/GrainBooksSetup-1.0.16.exe",
+    "notes":  "Accounts now carry an opening date you can set and change, instead of the app dating them by the moment they were created. Dates follow the Pakistani calendar day throughout, so an account created on the web no longer reads a day earlier here. Also: bill lines can carry whole units and loose pieces, stock screens and printed bills show both, and the piece rate prints so a packed bill can be checked.",
+    "sha256":  "fdcbd8b54b1fa2560dc2424dca9b11679b430de2018d2dfceae6c7815550fedb"
 }
