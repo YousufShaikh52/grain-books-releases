@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.17",
-    "build":  21,
-    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.17/GrainBooksSetup-1.0.17.exe",
-    "notes":  "A new look and a keyboard-first way of working. The app draws its own title bar, uses a bundled typeface and a dark green sidebar, and puts labels above fields. On every entry screen Enter moves to the next field or cell and adds a line off the end, Shift+Enter goes back, arrows move between lines, Ctrl+Enter adds a line, Ctrl+D deletes one and Esc backs out. Parties, products, accounts and brands are typed into the cell and chosen from a list that narrows as you type; Alt+N creates a new one without leaving the bill, and Ctrl+Space opens the full picker. Every number cell does arithmetic, such as 375*2067. Dates are typed as dd-mm-yyyy, with F2 to reach them. F5, F6 and F7 open a payment, receipt or journal voucher and F8 and F9 a sale or purchase bill from any list. Press ? for the full list of keys.",
-    "sha256":  "f6848e0bd697e7d840bb5f8dbacd6a4613ce6e59098d7aa9b015600e06806f69"
+    "version":  "1.0.18",
+    "build":  23,
+    "url":  "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v1.0.18/GrainBooksSetup-1.0.18.exe",
+    "notes":  "A new look that matches the web app: the same colours, typeface, sidebar, page headings and words as the web pages, Debit in red and Credit in green, figures written with a comma every three digits (611,256), and a dark mode that reads properly. The detail pane now opens beside the list on a 1366 laptop, forms fit a small window, and Urdu text is drawn whole. Figures follow the web\u0027s rules in the cashbook, balance sheet, bills tracking and the dashboard\u0027s cash in hand, and sale bills include the tax adjustment. The app now goes quiet after ten minutes with nobody at the keyboard or mouse, and while minimised, and syncs at once on the next click or key press, so a PC left on overnight no longer keeps the online database awake. Your keyboard shortcuts work as before.",
+    "sha256":  "c0ac70f5db5b591537ea691b5a146e7728f2a68aa0b630c91cd0f449869c6890"
 }
