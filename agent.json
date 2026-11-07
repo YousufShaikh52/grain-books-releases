@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.0.0/GrainBooksAgent.exe",
+  "sha256": "dd302d557eb01cf1b640fb74c220993a0fd06488b43bfd544b3f4b82580e5d29",
+  "notes": "Silent printing, offline entries and remote printing for Grain Books in the browser."
+}
