@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.2.0/GrainBooks-Setup-2.2.0.exe",
-  "notes": "Works without internet: bills, vouchers, gate passes and cash handovers are kept on the PC and post by themselves; ledgers and reports open offline. Provisional receipts for offline bills. Two printers (80mm and A4) and silent printing.",
-  "sha256": "9ba4bd580858f6839bf0a302993508d2ced97fec06e558b39d093134484fa1ec"
+  "version": "2.3.0",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.3.0/GrainBooks-Setup-2.3.0.exe",
+  "notes": "Admin-managed printers and remote printing; offline entries follow the company and user switches.",
+  "sha256": "104f10888a88c2e4b8e6f0689b966c89354b0b03669e4c27b79cd888d40b1b9a"
 }
