@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.3.0/GrainBooks-Setup-2.3.0.exe",
-  "notes": "Admin-managed printers and remote printing; offline entries follow the company and user switches.",
-  "sha256": "104f10888a88c2e4b8e6f0689b966c89354b0b03669e4c27b79cd888d40b1b9a"
+  "version": "2.4.0",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.4.0/GrainBooks-Setup-2.4.0.exe",
+  "notes": "Gate pass copies counted: ORIGINAL, COPY 2...; one paper per print.",
+  "sha256": "32eea1e88570d91f866b38b37aceeda5bd3d237ca3b303277b072b9128edb8af"
 }
