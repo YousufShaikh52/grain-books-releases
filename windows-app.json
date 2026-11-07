@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.4.0/GrainBooks-Setup-2.4.0.exe",
-  "notes": "Gate pass copies counted: ORIGINAL, COPY 2...; one paper per print.",
-  "sha256": "32eea1e88570d91f866b38b37aceeda5bd3d237ca3b303277b072b9128edb8af"
+  "version": "2.4.1",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.4.1/GrainBooks-Setup-2.4.1.exe",
+  "notes": "Receipts print no background colours (no more black rolls).",
+  "sha256": "5e92d15305e6f683e95a6e35f5dc49fe4f8040ad28b5155723f16e91cb50f55b"
 }
