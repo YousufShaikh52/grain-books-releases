@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.1/GrainBooksAgent.exe",
-  "sha256": "d773fe6199218d5fa619787cb69e0ee952876b42799de56dea21949edb42d19f",
-  "notes": "Gate passes: one copy per print, failed prints not counted."
+  "version": "1.2.2",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.2/GrainBooksAgent.exe",
+  "sha256": "1c0447752c92fae5646e0af3910414c26057799524f0697fdeac89c3bc2201ac",
+  "notes": "Receipts print no background colours (no more black rolls)."
 }
