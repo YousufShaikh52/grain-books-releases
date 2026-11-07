@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.1.1/GrainBooksAgent.exe",
-  "sha256": "4255fe4a23fa24470ea4c70838712ecfc88cb7c2092f53d74df993e646df82e3",
-  "notes": "80mm receipts no longer cut off at the right."
+  "version": "1.2.0",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.0/GrainBooksAgent.exe",
+  "sha256": "279f1843056ea954f5f75ebd85ae2e8845a1bc428b7b68c0abb1cdbb987eca1d",
+  "notes": "Admin-managed printers; faster updates."
 }
