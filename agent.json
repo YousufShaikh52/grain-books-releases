@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.1.0/GrainBooksAgent.exe",
-  "sha256": "8dbeb145aabfd9c5b5924ef83566ecfefa0e20a1f62e49a2b27ec37baffc8768",
-  "notes": "Entries kept offline post by themselves, browser open or not."
+  "version": "1.1.1",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.1.1/GrainBooksAgent.exe",
+  "sha256": "4255fe4a23fa24470ea4c70838712ecfc88cb7c2092f53d74df993e646df82e3",
+  "notes": "80mm receipts no longer cut off at the right."
 }
