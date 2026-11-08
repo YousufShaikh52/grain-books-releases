@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.3/GrainBooksAgent.exe",
-  "sha256": "e0af7f1d36bf99876c57dcf4a7e61a767548789427988fda8236f916b46e9292",
-  "notes": "The admin chooses where each PC's prints go: its own printers or another PC's."
+  "version": "1.2.4",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.4/GrainBooksAgent.exe",
+  "sha256": "cb52872c64edd494afe902670fdc5e0e14e25663375c7837ef1a783dbe9c242e",
+  "notes": "Receipts fit the 80mm roll: nothing cut off at the right."
 }
