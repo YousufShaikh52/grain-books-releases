@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.2/GrainBooksAgent.exe",
-  "sha256": "1c0447752c92fae5646e0af3910414c26057799524f0697fdeac89c3bc2201ac",
-  "notes": "Receipts print no background colours (no more black rolls)."
+  "version": "1.2.3",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.3/GrainBooksAgent.exe",
+  "sha256": "e0af7f1d36bf99876c57dcf4a7e61a767548789427988fda8236f916b46e9292",
+  "notes": "The admin chooses where each PC's prints go: its own printers or another PC's."
 }
