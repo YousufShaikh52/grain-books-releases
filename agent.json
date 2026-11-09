@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.4/GrainBooksAgent.exe",
-  "sha256": "cb52872c64edd494afe902670fdc5e0e14e25663375c7837ef1a783dbe9c242e",
-  "notes": "Receipts fit the 80mm roll: nothing cut off at the right."
+  "version": "1.2.5",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.5/GrainBooksAgent.exe",
+  "sha256": "f260f0fe5a5e4e6305745325a1bdf2dfe5091dbecda5b9d8601168a083400a3a",
+  "notes": "A PC can send its 80mm prints to another PC and print its A4 on its own printers."
 }
