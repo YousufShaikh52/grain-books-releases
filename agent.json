@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.5/GrainBooksAgent.exe",
-  "sha256": "f260f0fe5a5e4e6305745325a1bdf2dfe5091dbecda5b9d8601168a083400a3a",
-  "notes": "A PC can send its 80mm prints to another PC and print its A4 on its own printers."
+  "version": "1.2.6",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.6/GrainBooksAgent.exe",
+  "sha256": "3aab9122999ac3dc429a30c0650f073932e6f6039fc8092c816b181c1875c1f7",
+  "notes": "The admin chooses on PCs & printers whether this PC can work offline."
 }
