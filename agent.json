@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.2.6/GrainBooksAgent.exe",
-  "sha256": "3aab9122999ac3dc429a30c0650f073932e6f6039fc8092c816b181c1875c1f7",
-  "notes": "The admin chooses on PCs & printers whether this PC can work offline."
+  "version": "1.3.0",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.3.0/GrainBooksAgent.exe",
+  "sha256": "021f4ecd48949aebd85ae2a4a39e3f876f3b0fb5e9695a71e80afa8751edfe91",
+  "notes": "Offline entries: new kinds of entry need no new agent; an entry that needs an earlier offline entry waits for it; the server's reason in Urdu."
 }
