@@ -1,6 +1,6 @@
 {
-  "version": "2.4.1",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.4.1/GrainBooks-Setup-2.4.1.exe",
-  "notes": "Receipts print no background colours (no more black rolls).",
-  "sha256": "5e92d15305e6f683e95a6e35f5dc49fe4f8040ad28b5155723f16e91cb50f55b"
+  "version": "2.5.0",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.5.0/GrainBooks-Setup-2.5.0.exe",
+  "notes": "Offline entries keep the day they were made; new kinds of offline entry need no new app; the server's reason in Urdu.",
+  "sha256": "93fa00bcd87333f304eacb8a7d8632a1dac1487d26fe74e7edca1bdd0dc935e7"
 }
