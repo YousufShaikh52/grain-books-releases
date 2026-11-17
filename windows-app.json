@@ -1,6 +1,6 @@
 {
-  "version": "2.5.0",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.5.0/GrainBooks-Setup-2.5.0.exe",
-  "notes": "Offline entries keep the day they were made; new kinds of offline entry need no new app; the server's reason in Urdu.",
-  "sha256": "93fa00bcd87333f304eacb8a7d8632a1dac1487d26fe74e7edca1bdd0dc935e7"
+  "version": "2.6.0",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.6.0/GrainBooks-Setup-2.6.0.exe",
+  "notes": "Works with no internet: the screens are inside the app and update by themselves. The admin's offline switch and print routing work for this app too.",
+  "sha256": "3844e602ca2f90a851bfdb3d96f68c073b5808821dcafebe9b3dd5d1c4f9aa79"
 }
