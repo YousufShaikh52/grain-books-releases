@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.6.0/GrainBooks-Setup-2.6.0.exe",
-  "notes": "Works with no internet: the screens are inside the app and update by themselves. The admin's offline switch and print routing work for this app too.",
-  "sha256": "3844e602ca2f90a851bfdb3d96f68c073b5808821dcafebe9b3dd5d1c4f9aa79"
+  "version": "2.6.1",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.6.1/GrainBooks-Setup-2.6.1.exe",
+  "notes": "The admin can move this PC's 80mm prints right (or left) from PCs & printers, for a printer that cuts off the first letters.",
+  "sha256": "6a2496f45db1c95f5585abaec72f92015d81a1aea07459ad53061a5dfe88b104"
 }

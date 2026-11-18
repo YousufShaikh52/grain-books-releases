@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.3.0/GrainBooksAgent.exe",
-  "sha256": "021f4ecd48949aebd85ae2a4a39e3f876f3b0fb5e9695a71e80afa8751edfe91",
-  "notes": "Offline entries: new kinds of entry need no new agent; an entry that needs an earlier offline entry waits for it; the server's reason in Urdu."
+  "version": "1.3.1",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/agent-v1.3.1/GrainBooksAgent.exe",
+  "sha256": "bcfceed0be92d85f737256524c08041a41c4a5062508d6201493ce0aad01ade7",
+  "notes": "The admin can move a PC's 80mm prints right (or left) from PCs & printers - for a printer that cuts off the first letters."
 }
