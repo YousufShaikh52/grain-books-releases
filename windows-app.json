@@ -1,6 +1,6 @@
 {
-  "version": "2.6.1",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.6.1/GrainBooks-Setup-2.6.1.exe",
-  "notes": "The admin can move this PC's 80mm prints right (or left) from PCs & printers, for a printer that cuts off the first letters.",
-  "sha256": "6a2496f45db1c95f5585abaec72f92015d81a1aea07459ad53061a5dfe88b104"
+  "version": "2.6.2",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.6.2/GrainBooks-Setup-2.6.2.exe",
+  "notes": "New screens arrive in seconds and are used without a restart. Fixes the app staying at 99% offline ready.",
+  "sha256": "bb8cf3bf547e219e91cf8f7cd44678023237bb20a4487d0985422e4be104b3f0"
 }
