@@ -1,6 +1,6 @@
 {
-  "version": "2.6.2",
-  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.6.2/GrainBooks-Setup-2.6.2.exe",
-  "notes": "New screens arrive in seconds and are used without a restart. Fixes the app staying at 99% offline ready.",
-  "sha256": "bb8cf3bf547e219e91cf8f7cd44678023237bb20a4487d0985422e4be104b3f0"
+  "version": "2.6.3",
+  "url": "https://github.com/YousufShaikh52/grain-books-releases/releases/download/v2.6.3/GrainBooks-Setup-2.6.3.exe",
+  "notes": "A dropped internet line no longer leaves a save stuck on loading: the entry is kept on the PC and posts when the line returns. Print on another PC from the Printers page.",
+  "sha256": "edd41520a14a8039bc215fe7db56f7f2e3be7d63c7811d6345aff423789c7ce7"
 }
